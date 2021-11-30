@@ -1,0 +1,40 @@
+#popo{
+    height: 100px;
+    background-color:rgb(109, 19, 19);
+    width: 100%;
+    text-align: center;
+}
+#topicture{
+    width: 50px;
+    
+}
+.centrar{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    color: white;
+}
+b{
+    color: black;
+}
+#colorb{
+    color: white;
+}
+.contenedor{
+    margin: 5% auto;
+    width: 90%;
+}
+#margen{
+    margin: 2%;
+}
+.iconos{
+    float:left;
+}
+#p{
+    text-align: left;
+}
+.h1{
+    text-align: center;
+    color:rgb(160, 14, 14)
+}
